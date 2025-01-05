@@ -3,6 +3,7 @@
 [![pub package](https://img.shields.io/pub/v/app_error_widget.svg)](https://pub.dev/packages/app_error_widget)
 
 <p style="display: flex; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/Dipak677/app_error_widget/refs/heads/main/app_error_example_old.png?raw=true" height="600px">
     <img src="https://raw.githubusercontent.com/Dipak677/app_error_widget/refs/heads/main/app_error_example.png?raw=true" height="600px">
 </p>
 
