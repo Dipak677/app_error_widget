@@ -2,19 +2,21 @@
 
 [![pub package](https://img.shields.io/pub/v/app_error_widget.svg)](https://pub.dev/packages/app_error_widget)
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-    <div style="display: flex; align-items: center; gap: 10px;">
-        <div style="text-align: center;">
-            <p style="margin: 0; font-size: 18px; font-weight: bold;">Before</p>
-            <img src="https://raw.githubusercontent.com/Dipak677/app_error_widget/refs/heads/main/app_error_example_old.png?raw=true" height="600px">
-        </div>
-        <span style="font-size: 36px; font-weight: bold; align-self: center;">➡</span>
-        <div style="text-align: center;">
-            <p style="margin: 0; font-size: 18px; font-weight: bold;">After</p>
-            <img src="https://raw.githubusercontent.com/Dipak677/app_error_widget/refs/heads/main/app_error_example.png?raw=true" height="600px">
-        </div>
-    </div>
-</div>
+<p align="center" style="display: flex; flex-direction: column; align-items: center;">
+    <table>
+        <tr>
+            <td align="center">
+                <b>Before</b><br>
+                <img src="https://raw.githubusercontent.com/Dipak677/app_error_widget/refs/heads/main/app_error_example_old.png?raw=true" alt="Before" width="300px">
+            </td>
+            <td align="center" style="font-size: 24px; font-weight: bold;">➡</td>
+            <td align="center">
+                <b>After</b><br>
+                <img src="https://raw.githubusercontent.com/Dipak677/app_error_widget/refs/heads/main/app_error_example.png?raw=true" alt="After" width="300px">
+            </td>
+        </tr>
+    </table>
+</p>
 
 ---
 
