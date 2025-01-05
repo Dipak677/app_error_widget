@@ -1,6 +1,6 @@
 name: app_error_widget
 description: "A Flutter package to customize error UI for uncaught exceptions during runtime"
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/Dipak677/app_error_widget.git
 
 environment:

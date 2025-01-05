@@ -7,3 +7,6 @@ Published on `pub.dev`.
 
 ## [0.0.2] - 2025-01-05
 Update images.
+
+## [0.0.3] - 2025-01-05
+Aligned the images properly.
