@@ -2,10 +2,19 @@
 
 [![pub package](https://img.shields.io/pub/v/app_error_widget.svg)](https://pub.dev/packages/app_error_widget)
 
-<p style="display: flex; gap: 10px;">
-    <img src="https://raw.githubusercontent.com/Dipak677/app_error_widget/refs/heads/main/app_error_example_old.png?raw=true" height="600px">
-    <img src="https://raw.githubusercontent.com/Dipak677/app_error_widget/refs/heads/main/app_error_example.png?raw=true" height="600px">
-</p>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+    <div style="display: flex; align-items: center; gap: 10px;">
+        <div style="text-align: center;">
+            <p style="margin: 0; font-size: 18px; font-weight: bold;">Before</p>
+            <img src="https://raw.githubusercontent.com/Dipak677/app_error_widget/refs/heads/main/app_error_example_old.png?raw=true" height="600px">
+        </div>
+        <span style="font-size: 36px; font-weight: bold; align-self: center;">➡</span>
+        <div style="text-align: center;">
+            <p style="margin: 0; font-size: 18px; font-weight: bold;">After</p>
+            <img src="https://raw.githubusercontent.com/Dipak677/app_error_widget/refs/heads/main/app_error_example.png?raw=true" height="600px">
+        </div>
+    </div>
+</div>
 
 ---
 
