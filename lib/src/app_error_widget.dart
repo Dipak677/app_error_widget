@@ -50,7 +50,9 @@ class AppErrorWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Material(
       child: Container(
+        alignment: Alignment.center,
         width: MediaQuery.sizeOf(context).width,
+        height: MediaQuery.sizeOf(context).height,
         color: backgroundColor ?? const Color(0xFF38C071),
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 8.0),
@@ -68,17 +70,19 @@ class AppErrorWidget extends StatelessWidget {
                     ),
               ),
               const SizedBox(height: 10),
-              Text(
-                exceptionText,
-                textAlign: TextAlign.center,
-                overflow: TextOverflow.ellipsis,
-                maxLines: 15,
-                style: exceptionTextStyle ??
-                    const TextStyle(
-                      color: Colors.black,
-                      fontWeight: FontWeight.normal,
-                      fontSize: 14,
-                    ),
+              Flexible(
+                child: SelectableText(
+                  exceptionText,
+                  textDirection: TextDirection.ltr,
+                  cursorColor: Colors.white,
+                  textAlign: TextAlign.center,
+                  style: exceptionTextStyle ??
+                      const TextStyle(
+                        color: Colors.black,
+                        fontWeight: FontWeight.normal,
+                        fontSize: 14,
+                      ),
+                ),
               ),
             ],
           ),

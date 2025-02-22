@@ -10,3 +10,12 @@ Update images.
 
 ## [0.0.3] - 2025-01-05
 Aligned the images properly.
+
+## [0.0.4] - 2025-02-22
+Added selectable text for error
+
+
+
+
+
+
